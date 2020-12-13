@@ -10,6 +10,8 @@
 
 The App is called "Memories-App" and it is a simple social media app that allows users to:
 
+users can:
+
 -   post interesting events that happened in their lives
 -   Like, update and remove a post
 
@@ -23,7 +25,9 @@ The App is called "Memories-App" and it is a simple social media app that allows
     npm start 
 ```
 
-Go to: localhost:3001/
+
+Runs the app in the development mode.\
+Open [http://localhost:3001](http://localhost:3001) to view it in the browser.
 
 <a name="app-DEMO"></a>
 
