@@ -10,8 +10,6 @@
 
 The App is called "Memories-App" and it is a simple social media app that allows users to:
 
-users can:
-
 -   post interesting events that happened in their lives
 -   Like, update and remove a post
 
