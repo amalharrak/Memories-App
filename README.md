@@ -18,18 +18,14 @@ The App is called "Memories-App" and it is a simple social media app that allows
 # Use It Locally
 
 ```
-    for both client and server side to start the app: 
+    for both client and server-new side to start the app: 
     run npm i 
     npm start 
 ```
+use folder: "server-new" like a server of app.
 
 
 Go to: localhost:3000/
-
-Runs the app in the development mode.\
-Open [http://localhost:3001](http://localhost:3001) to view it in the browser.
-
-<a name="app-DEMO"></a>
 
 # App Demo
 
