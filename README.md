@@ -27,6 +27,9 @@ users can:
 
 Go to: localhost:3001/
 
+Runs the app in the development mode.\
+Open [http://localhost:3001](http://localhost:3001) to view it in the browser.
+
 <a name="app-DEMO"></a>
 
 # App Demo
