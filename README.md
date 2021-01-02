@@ -24,7 +24,7 @@ The App is called "Memories-App" and it is a simple social media app that allows
 ```
 
 
-Go to: localhost:3001/
+Go to: localhost:3000/
 
 <a name="app-DEMO"></a>
 
